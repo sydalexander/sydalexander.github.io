@@ -20,4 +20,4 @@ The discussion about GIS as a singular technology made me think about the differ
 | centered | not centered |
 | more content to show centering | not so much |
 
-Link to [another post](/2010-01-07-post-standard.md)
+Link to [another post](sydalexander/blog/poststandard/)
