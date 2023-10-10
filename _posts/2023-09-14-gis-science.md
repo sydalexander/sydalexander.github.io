@@ -1,5 +1,5 @@
 ---
-title: "Is GIS a Science"
+title: "Is GIS a Science?"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
