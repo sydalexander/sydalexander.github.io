@@ -12,4 +12,5 @@ Coming into this reproduction study, I felt a little apprehensive as I scrolled 
 
 Specifically for teaching purposes, I felt it was really useful to be given a list of possible things that we could fix. For example, knowing that we needed to make smaller changes, from fixing a table to removing a missing parameter to fix a choropleth map, were good first steps. It was a bit overhwelming to look at all the code for a reproduction study coming into lab, but breaking down smaller steps to contributing were really helpful. However, something that I found a little frusterating was that I continually had to run and rerun several blocks of code in order to load all the data with all the correct attributes and modifications if I was interested in investigating something in the middle of the study. Maybe there being a way to load data exactly in the form it is needed for a specific block of code or part of the study would be super helpful, isntead of having to run through all the previous parts of the study.
 
-[Check out my contributions to the study here]
+[Check out my contributions to the study here](https://sydalexander.github.io/RPr-Chakraborty-2021/)
+
