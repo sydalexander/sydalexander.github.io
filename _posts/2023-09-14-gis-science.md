@@ -13,11 +13,4 @@ My experience with GIS has mostly occurred within a classroom setting. Often, th
 
 The discussion about GIS as a singular technology made me think about the differences in using ArcGIS vs QGIS. I took summer classes at UMBC a couple summers ago, and for those classes we were taught using ArcGIS. In these classes, professors said that we were learning skills using software that many businesses and companies use and value. My understanding is that ArcGIS is one of the dominant systems used in the “real world” by businesses and schools alike. What was interesting, however, was when my professor there mentioned that he was interested in revising the class so that students would learn GIS using Q instead of Arc, because he believed that it would be better and more ethical for students to use open source software instead of software that was corporately owned. I know that Middlebury’s geography department is similar.
 
-![Github logo](/assets/images/GitHub-Mark.png)
-
-| table column 1 |table column 2 |
-| :---: | ---- |
-| centered | not centered |
-| more content to show centering | not so much |
-
 Link to [another post](sydalexander/blog/poststandard/)
