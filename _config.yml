@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sydney Alexander"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am currently a junior at Middlebury College joint majoring in English and geography."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
