@@ -15,5 +15,14 @@ Looking at Malcomb’s study, I was skeptical of his conceptual framework, which
 
 There are a couple strategies that geographers may use to fulfill their responsibilities regarding uncertainty. Geographers can use statistics to show measures of uncertainty in their research, as laid out by Longley. Simulation is a way in which uncertainty may be mitigated or accounted for in a study as well. Additionally, geographers should report where they are getting their data, and they should consider reporting important or useful metadata as well (Longley et al, 2014). 
 
+**References**
+Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley.
+Chapter 6: Uncertainty, (pages 127-153)
+
+Malcomb, D. W., E. A. Weaver, and A. R. Krakowka. 2014. Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi. Applied Geography 48:17–30. DOI:10.1016/j.apgeog.2014.01.004
+
+Tate, E. 2013. Uncertainty Analysis for a Social Vulnerability Index. Annals of the Association of American Geographers 103 (3):526–543. DOI:10.1080/00045608.2012.700616.
+
+Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. Annals of the American Association of Geographers 111 (5):1318–1328. DOI:10.1080/24694452.2020.1806029
 
 
