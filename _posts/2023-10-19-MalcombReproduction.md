@@ -9,7 +9,10 @@ tags:
   - Malawi
   - Reproduction
 ---
-Coming into this study, there were already many decisions Malcomb made that I felt a little skeptical about. For one, the interviews were an integral part in determining the weights for the study, but we don't have access to the interviews or to the processes by which Malcomb decided to assign weights. I also thought that Malcomb's original visualization for climate vulnerability scores didn't make much sense; I understand that it was likely in raster form because the inputs (eg. flooding) were originally rasters, but it just seemed 
+Coming into this study, there were already many decisions Malcomb made that I felt a little skeptical about. For one, the interviews were an integral part in determining the weights for the study, but we don't have access to the interviews or to the processes by which Malcomb decided to assign weights.
+I also thought that Malcomb's original visualization for climate vulnerability scores didn't make much sense; I understand that it was likely in raster form because the inputs (eg. flooding) were originally rasters, but to me this didn't seem like the most effective way to depict vulnerability. Instead, I created a new map visualizing the mean vulnerability scores for each TA, which would be geographical units easier to implement changes into, rather than ambigious areas in a raster. TAs are discrete. 
+
+Regarding the frameworks of Tate (2013) and Longley (2008), __.  
 
 [Check out my contributions to the study here]()
 [Link to the GitHub repository](https://github.com/sydalexander/RPr-Malcomb-2014)
