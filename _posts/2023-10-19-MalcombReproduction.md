@@ -14,5 +14,6 @@ I also thought that Malcomb's original visualization for climate vulnerability s
 
 Regarding the frameworks of Tate (2013) and Longley (2008), __.  
 
-[Check out my contributions to the study here]()
+[Check out my contributions to the study here](https://sydalexander.github.io/RPr-Malcomb-2014/)
+
 [Link to the GitHub repository](https://github.com/sydalexander/RPr-Malcomb-2014)
