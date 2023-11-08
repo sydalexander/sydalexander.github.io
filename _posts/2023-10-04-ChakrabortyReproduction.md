@@ -14,3 +14,5 @@ Specifically for teaching purposes, I felt it was really useful to be given a li
 
 [Check out my contributions to the study here](https://sydalexander.github.io/RPr-Chakraborty-2021/)
 
+[Link to GitHub Repository](https://github.com/sydalexander/RPr-Chakraborty-2021)
+
