@@ -14,6 +14,6 @@ In this vein, I also improved my troubleshooting abilites by reading through cod
 
 Our primary modification to this study involved using the **osmnx.speed** module, replacing several for loops that originally calculated speed limits of raods. This change simplified the code, improving both its legibility and its effiency. Something else we attempted to improve upon in the code was to improve translation from hospital catchments into hexagons by revising the **overlap_calc** function. Although we were unable to accomplish this, it would still be something worth revising in the future. The scope of this study and reanalysis focused specifically on Illinois; it may be worth applying the methods of this study to other states, especially states neighboring Illinois.
 
-Check out my contributions to the study here
+[Check out my contributions to the study here](https://sydalexander.github.io/RPr-Wang-2020/)
 
 [Link to the GitHub repository](https://github.com/sydalexander/RPr-Kang-2020)
