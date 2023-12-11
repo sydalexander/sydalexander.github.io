@@ -2,7 +2,7 @@
 title: "Reflecting on the Wang Study"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Lab
 tags:
   - COVID-19
   - GIS
