@@ -18,5 +18,3 @@ NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. Reprodu
 Chapter 2: Scientific methods and knowledge (pages 21-30 )
 
 Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057
-
-Link to [another post](sydalexander/blog/poststandard/)
