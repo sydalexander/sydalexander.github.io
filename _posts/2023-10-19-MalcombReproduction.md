@@ -2,7 +2,7 @@
 title: "The Trials and Tribulations of Reproducing the Malcomb Study"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Lab
 tags:
   - Vulnerability
   - GIS
