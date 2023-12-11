@@ -13,6 +13,12 @@ Coming into this study, there were already many decisions Malcomb made that I fe
 
 I also thought that Malcomb's original visualization for climate vulnerability scores didn't make much sense; I understand that it was likely in raster form because the inputs (eg. flooding) were originally rasters, but to me this didn't seem like the most effective way to depict vulnerability. Instead, I created a new map visualizing the mean vulnerability scores for each TA, which would be geographical units easier to implement changes into, rather than ambigious areas in a raster. TAs are discrete. WIthin Tate's framework, this poses an issue with analysis scale; TAs are a unit which Malcomb conducts part of his analysis, but he is not consistent in using them throughout his study (Tate, 2013).
 
+**References**
+
+Malcomb, D. W., E. A. Weaver, and A. R. Krakowka. 2014. Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi. Applied Geography 48:17–30. DOI:10.1016/j.apgeog.2014.01.004
+
+Tate, E. 2013. Uncertainty Analysis for a Social Vulnerability Index. Annals of the Association of American Geographers 103 (3):526–543. DOI:10.1080/00045608.2012.700616.
+
 [Check out my contributions to the study here](https://sydalexander.github.io/RPr-Malcomb-2014/)
 
 [Link to the GitHub repository](https://github.com/sydalexander/RPr-Malcomb-2014)
