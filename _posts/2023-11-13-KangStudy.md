@@ -18,6 +18,6 @@ Our primary modification to this study involved using the **osmnx.speed** module
 
 Kang, J. Y., A. Michels, F. Lyu, Shaohua Wang, N. Agbodo, V. L. Freeman, and Shaowen Wang. 2020. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. International Journal of Health Geographics 19 (1):1–17. DOI:10.1186/s12942-020-00229-x.
 
-[Check out my contributions to the study here](https://sydalexander.github.io/RPr-Wang-2020/)
+[Check out my contributions to the study here](https://sydalexander.github.io/RPr-Kang-2020/)
 
 [Link to the GitHub repository](https://github.com/sydalexander/RPr-Kang-2020)
