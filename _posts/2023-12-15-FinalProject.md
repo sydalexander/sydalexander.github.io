@@ -1,5 +1,5 @@
 ---
-title: "Excess Deaths and New Data: More Modifications to Chakraborty's Study"
+title: "Excess Deaths and New Data: Beginning a New Replication of Chakraborty's Study"
 excerpt_separator: "<!--more-->"
 categories:
   - Final Project
@@ -9,7 +9,9 @@ tags:
   - Excess Deaths
   - Reproduction
 ---
-(ADD TEXT HERE)
+For my final project, I returned to Chakraborty's study to do a reanalysis using **excess deaths** instead of COVID-19 deaths, using data from 2020 rather than 2018. We were interested in excess death data as opposed to COVID-19 data because it could potentially be more accurate, given that it accounts for all deaths that could have been caused by the pandemic, if indirectly. In essence, excess death data is useful for looking at COVID-19's overall impact. We created a new visualization of excess death data, comparing it to visualizations of COVID-19 incidence and disability. 
+
+We also attempted to replicate the Kulldorff spatial scan statistic, as well as a GEE model. We were able to calculate a Gee model grouping by State ID codes.
 
 **References**
 
