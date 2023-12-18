@@ -17,6 +17,6 @@ We also attempted to replicate the Kulldorff spatial scan statistic, as well as 
 
 Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI: 10.1016/j.dhjo.2020.101007.
 
-[Check out my contributions to the study here]()
+[Check out my contributions to the study here](https://sydalexander.github.io/OpenSciFinal/)
 
 [Link to GitHub Repository](https://github.com/sydalexander/RPr-Chakraborty-2021)
